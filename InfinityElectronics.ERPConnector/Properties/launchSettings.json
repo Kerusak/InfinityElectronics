@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "InfinityElectronics.ERPConnector": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7170",
+      "launchBrowser": false
+    }
+  }
+}

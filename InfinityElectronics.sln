@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityElectronics.WebApi", "InfinityElectronics.WebApi\InfinityElectronics.WebApi.csproj", "{CD0A8811-1203-4AC7-AF7D-F8548DAE5093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityElectronics.ERPConnector", "InfinityElectronics.ERPConnector\InfinityElectronics.ERPConnector.csproj", "{A1E5B365-1DFA-4CA7-872A-48586F0B1210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityElectronics.Common", "InfinityElectronics.Common\InfinityElectronics.Common.csproj", "{1C09E0AA-1436-430A-9337-68DC77A23147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityElectronics.Database", "InfinityElectronics.Database\InfinityElectronics.Database.csproj", "{3ECA9496-9F88-4916-B142-F46C6DBEACB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfinityElectronics.WebApiTests", "InfinityElectronics.WebApiTests\InfinityElectronics.WebApiTests.csproj", "{E7F4B47D-F991-4AEE-BBA0-6DB7CF2D001A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD0A8811-1203-4AC7-AF7D-F8548DAE5093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD0A8811-1203-4AC7-AF7D-F8548DAE5093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD0A8811-1203-4AC7-AF7D-F8548DAE5093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD0A8811-1203-4AC7-AF7D-F8548DAE5093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E5B365-1DFA-4CA7-872A-48586F0B1210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E5B365-1DFA-4CA7-872A-48586F0B1210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E5B365-1DFA-4CA7-872A-48586F0B1210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E5B365-1DFA-4CA7-872A-48586F0B1210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C09E0AA-1436-430A-9337-68DC77A23147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C09E0AA-1436-430A-9337-68DC77A23147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C09E0AA-1436-430A-9337-68DC77A23147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C09E0AA-1436-430A-9337-68DC77A23147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECA9496-9F88-4916-B142-F46C6DBEACB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECA9496-9F88-4916-B142-F46C6DBEACB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECA9496-9F88-4916-B142-F46C6DBEACB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECA9496-9F88-4916-B142-F46C6DBEACB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7F4B47D-F991-4AEE-BBA0-6DB7CF2D001A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7F4B47D-F991-4AEE-BBA0-6DB7CF2D001A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7F4B47D-F991-4AEE-BBA0-6DB7CF2D001A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7F4B47D-F991-4AEE-BBA0-6DB7CF2D001A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
